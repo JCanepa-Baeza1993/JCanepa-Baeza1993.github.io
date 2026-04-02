@@ -48,14 +48,26 @@ font-weight:600;
 
 }
 
-.skills span{
+.skills{
+text-align:center;
+padding:80px 20px;
+color:white;
+}
 
-display:inline-block;
-background:#1e293b;
-padding:10px 15px;
-margin:5px;
-border-radius:6px;
+.skills-grid{
+display:flex;
+justify-content:center;
+gap:40px;
+flex-wrap:wrap;
+}
 
+.skill img{
+width:60px;
+transition:0.3s;
+}
+
+.skill img:hover{
+transform:scale(1.2);
 }
 
 .grid{
