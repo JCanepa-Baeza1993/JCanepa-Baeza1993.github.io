@@ -1,4 +1,4 @@
-# Juan Manuel Cánepa Baeeza
+# Juan Manuel Cánepa Baeza
 
 Front-End Developer
 
