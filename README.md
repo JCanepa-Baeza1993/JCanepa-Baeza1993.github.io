@@ -32,5 +32,5 @@ Aplicación CRUD para la gestión de tareas con control de fechas de vencimiento
 🌐 https://jcanepa-baeza1993.github.io
 
 ## Contacto
-* LinkedIn: [www.linkedin.com/in/juan-manuel-cánepa-baeza](http://www.linkedin.com/in/juan-manuel-cánepa-baeza)
+* LinkedIn: [www.linkedin.com/in/juan-manuel-cánepa-baeza](https://www.linkedin.com/in/juan-manuel-c%C3%A1nepa-baeza-a1564b387/?skipRedirect=true)
 * GitHub: github.com/JCanepa-Baeza1993
